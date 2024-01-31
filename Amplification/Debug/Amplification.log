@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Amplification.cpp
+  AmplificationDlg.cpp
+C:\Users\shutong\Desktop\Amplification\AmplificationDlg.cpp(198,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\shutong\Desktop\Amplification\AmplificationDlg.cpp(220,3): warning C4129: “D”: 不可识别的字符转义序列
+C:\Users\shutong\Desktop\Amplification\AmplificationDlg.cpp(238,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\shutong\Desktop\Amplification\AmplificationDlg.cpp(308,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Amplification.vcxproj -> C:\Users\shutong\Desktop\Amplification\Debug\Amplification.exe
